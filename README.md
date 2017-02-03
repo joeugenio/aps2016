@@ -1,5 +1,5 @@
 # aps2016
-Code for the paper "An Approximate Exponentiated Weibull Joint Envelope-Phase Distribution"
+Python2.7 scripts for the paper "An Approximate Exponentiated Weibull Joint Envelope-Phase Distribution"
 
 If you find this code useful, please acknowledge:
 
