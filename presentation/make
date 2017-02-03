@@ -1,0 +1,2 @@
+pdflatex aps_press.tex
+open aps_press.pdf
