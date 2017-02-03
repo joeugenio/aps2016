@@ -1,9 +1,0 @@
-Free-space optical (FSO) communication has emerged recently as an efficient solution to match the larger bandwidth and high data rates requirement of the upcoming wireless communication systems. However, the major challenge in establishing a wireless link at optical frequencies is atmospheric turbulence experienced by the laser beam when it propagates through the medium.
-
-The atmospheric turbulence causes various perturbations in the propagating beam like scintillation which represents the random fluctuations in the beam irradiance, beam wander which stands for the random movement of the instantaneous centre of the beam at receiving aperture, and beam spreading that indicates the spreading beyond the diffraction limit of the beam radius
-
-Scintilation is a result of random intensity and phase fluctuations of an optical wave as it propagates through a turbulent atmosphere. Random temporal and spatial variations of refractive index of the air blobs with thorough mixing scintillation.
-
-The larger dimensions of the apertures in the receiver may help in collecting the higher irradiance flux, but it will place a hard- ware constraint on the receiver structures.
-
-The existing channel models such as log-normal and Gamma-Gamma can not be used in all turbulence situations, and even sometimes they do not provide a good fit for experimental and simulated data

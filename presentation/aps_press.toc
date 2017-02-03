@@ -1,6 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\select@language {english}
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Atmospheric Turbulence Channel Statistics}{4}{0}{1}
-\beamer@sectionintoc {2}{Joint Envelope-Phase Probability Density Function}{6}{0}{2}
-\beamer@sectionintoc {3}{Conclusions}{14}{0}{3}
